@@ -1,7 +1,7 @@
 # duidu-how-to-decide
 
 > 把安妮·杜克《How to Decide》（中译名《对赌·实践版》，中信 2022）蒸馏成一组**可被 Agent 精准调用**的决策能力。
-> 不是书摘，不是术语表——是 16 张原子能力卡 + 7 个独立触发 Skill + 1 个来源路由入口。
+> 不是书摘，不是术语表——是 16 张原子能力卡 + 7 个独立触发 Skill + 1 个来源路由入口。可以帮你在现代生活中遇到信息不对称事件时优化你的决策
 
 [![skill](https://img.shields.io/badge/skill-Agent%20Skill-8%20%E5%A5%97-blue)](https://github.com/leocui345)
 [![book](https://img.shields.io/badge/sourcebook-9%20%E7%AB%A0%20%E8%BF%9B%E4%B8%80%E5%85%A8%E5%8D%88-a38)](https://github.com/leocui345)
