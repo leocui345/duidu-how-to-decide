@@ -3,9 +3,7 @@
 > 把安妮·杜克《How to Decide》（中译名《对赌·实践版》，中信 2022）蒸馏成一组**可被 Agent 精准调用**的决策能力。
 > 不是书摘，不是术语表——是 16 张原子能力卡 + 7 个独立触发 Skill + 1 个来源路由入口。
 
-[![skill](https://img.shields.io/badge/skill-Agent%20Skill-8%20%E5%A5%97-blue)](https://github.com/leocui345)
-[![book](https://img.shields.io/badge/sourcebook-9%20%E7%AB%A0%20%E8%BF%9B%E4%B8%80%E5%85%A8%E5%8D%88-a38)](https://github.com/leocui345)
-[![status](https://img.shields.io/badge/trigger%20test-not%20yet%20run-orange)](https://github.com/leocui345)
+**状态**：8 个技能入口 / 16 张能力卡 ｜ 触发评测**尚未执行**（见下文「状态与诚实边界」）｜ 仅供个人学习与内部使用
 
 ---
 
@@ -100,7 +98,7 @@ cp -R duidu-how-to-decide/skills/* ~/.workbuddy/skills/
 
 ## 它是怎么做出来的
 
-由 [`cangjie-skill`](https://github.com/) 的 **RIA-TV++** 流水线从零蒸馏产出，五个阶段：
+由 `cangjie-skill` 的 **RIA-TV++** 流水线从零蒸馏产出，五个阶段：
 
 ```
 阶段 0  Adler 整书理解（含 7 类作者局限批判）
@@ -146,5 +144,4 @@ cp -R duidu-how-to-decide/skills/* ~/.workbuddy/skills/
 ## 相关
 
 - 读者版精华长文：[`docs/DIGEST.md`](docs/DIGEST.md)
-- 编译事实源（Capability Bundle）：本机 `/Users/mac/WorkBuddy/2026-10-06-23-17-07/duidu-cangjie/books/duidu/.cangjie/capabilities/`
-- 逐页核验的源书蒸馏产物（57 个 md）：本机 Obsidian Vault `08-读书/对赌（实践版）/`
+- 编译事实源（Capability Bundle）**不包含在本仓库内**——它是编译期产物，由 cangjie-skill 流水线从源书蒸馏结果生成后编译成 `skills/`；如需重新编译，需先跑该流水线。

@@ -1,27 +1,27 @@
-\---  
-name: duidu-how-to-decide-router  
-description: |  
-  《对赌（实践版）》全书的来源路由入口。当用户的问题与"决策"相关但不确定属于哪个具体方法时使用——  
-  包括复盘类（我那次是不是做错了、后悔、早该知道）、找参照类（一般成功率多少、别人怎么看）、  
-  相近选项类（两个都差不多选不出来）、坚持/放弃类（都投入这么多了要不要继续）、  
-  情绪类（刚被骂了想立刻回击、破功了干脆算了）、兜底类（万一出问题怎么办）、  
-  自我评价类（我是不是决策能力差）。  
-  本入口同时承载 9 张未晋级能力卡（结果导向、后视偏差、多重可能性、外视角、披着狼皮的羊、  
-  预先承诺、上头、对冲、决策组合观）。若问题明确落在已晋级的 7 个方法上，优先直接用那些 Skill。  
-  不适用：对赌协议（VAM）、赌博、荐股、法律/医疗意见。  
-metadata:  
-  cangjie.generated-by: cangjie-tools v2.5.0  
-  cangjie.variant: router  
-  cangjie.bundle-id: duidu-how-to-decide-v1  
-  cangjie.capability-count: 16  
-  cangjie.entrypoint-count: 8  
+\---
+name: duidu-how-to-decide-router
+description: |
+  《对赌（实践版）》全书的来源路由入口。当用户的问题与"决策"相关但不确定属于哪个具体方法时使用——
+  包括复盘类（我那次是不是做错了、后悔、早该知道）、找参照类（一般成功率多少、别人怎么看）、
+  相近选项类（两个都差不多选不出来）、坚持/放弃类（都投入这么多了要不要继续）、
+  情绪类（刚被骂了想立刻回击、破功了干脆算了）、兜底类（万一出问题怎么办）、
+  自我评价类（我是不是决策能力差）。
+  本入口同时承载 9 张未晋级能力卡（结果导向、后视偏差、多重可能性、外视角、披着狼皮的羊、
+  预先承诺、上头、对冲、决策组合观）。若问题明确落在已晋级的 7 个方法上，优先直接用那些 Skill。
+  不适用：对赌协议（VAM）、赌博、荐股、法律/医疗意见。
+metadata:
+  cangjie.generated-by: cangjie-tools v2.5.0
+  cangjie.variant: router
+  cangjie.bundle-id: duidu-how-to-decide-v1
+  cangjie.capability-count: 16
+  cangjie.entrypoint-count: 8
 \---
 
 # 对赌（实践版） — 来源路由入口（compact pack）
 
 ## 触发与不触发
 
-**适用**：与本书能力域相关的咨询与任务（见下方路由表的意图列）。  
+**适用**：与本书能力域相关的咨询与任务（见下方路由表的意图列）。
 **不适用**：
 
 - 投融资对赌协议（VAM／估值调整机制）的条款、估值与法律含义
